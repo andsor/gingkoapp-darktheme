@@ -58,4 +58,19 @@
     color: #eef;
   }
 
+  .card textarea {
+    background: #090909;
+    color: #fff;
+  }
+
+  .fullscreen-overlay {
+    background: #090909;
+    color: #eee;
+  }
+
+  .fullscreen-overlay textarea:focus, .fullscreen-overlay textarea:hover {
+    background: #090909;
+    color: #eee;
+  }
+
 }
